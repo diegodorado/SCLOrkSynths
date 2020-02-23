@@ -1,5 +1,5 @@
 Pbindef( \everythingRhodes,
-	\instrument, "everythingrhodes",
+	\instrument, "everythingRhodes",
 	\ctranspose, 7,
 	\strum, 0.05,
 	\dur, Pseq([1, 0.5, 1.5, 0.25, 0.25, 0.5, 1, 2], 1),
